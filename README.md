@@ -1,5 +1,9 @@
 # Getting Started with Create React App
 
+### Most importantly, the Dependencies, you can check the package.json for every one and install them or easily install all directly using;
+
+`npm install`
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
